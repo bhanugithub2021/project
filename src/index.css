@@ -1,0 +1,40 @@
+.navbar-brand {
+    
+    margin-left: 2rem;
+    
+    
+
+
+}
+
+.nav-link {
+    margin-left: 1rem;
+
+}
+
+.table {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: 10rem;
+    
+    background-color: rgb(239, 239, 245);
+    
+
+}
+
+.fix {
+    position: sticky;
+    top: 0;
+}
+
+
+
+h3 {
+    
+    color: rgb(235, 218, 163);
+    size: 4%;
+    width: 13%;
+    height: 10%;
+ }
+
+ 

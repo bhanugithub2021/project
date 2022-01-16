@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Akash",
+      "username": "@Akash",
+      "email": "Akash12@gmail.com",
+      "phone": "9814455231",
+      "website": "www.ak.com",
+      "id": 1
+    },
+    {
+      "name": "Ritesh",
+      "username": "@ritesh",
+      "email": "9801096001@g",
+      "phone": "1-770-736-8031 x56442",
+      "website": "www.uper.com",
+      "id": 3
+    },
+    {
+      "name": "Budesh Kumar",
+      "username": "@budesh",
+      "email": "budesh123@gmail.com",
+      "phone": "980000979",
+      "website": "www.bk.com",
+      "id": 4
+    }
+  ]
+}
